@@ -2,12 +2,7 @@
 function add(a, b) {
     return a + b;
 } 
-
-//Division
-function divide(a, b) {
-    return a / b;
-}
-//sub
-function sub(a,b) {
-    return a-b;
+//multiply
+function mul(a,b){
+    return a*b;
 }
